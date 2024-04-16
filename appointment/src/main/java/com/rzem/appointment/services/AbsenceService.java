@@ -1,6 +1,6 @@
 package com.rzem.appointment.services;
 
-
+/*
 import com.rzem.appointment.entities.Absence;
 
 import java.util.List;
@@ -20,3 +20,6 @@ public interface AbsenceService {
     Absence save (Absence absence);
 
 }
+
+
+ */

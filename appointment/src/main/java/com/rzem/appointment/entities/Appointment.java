@@ -27,10 +27,12 @@ public class Appointment {
     private Status status;
     private Boolean reminder;
     private AppointmentType appointmentType;
-    private User student;
-    private User professor;
+    private int studentId;//c bon
+    private int professorAdminId;//c bon
     private Location location;
     private int priority;
     private List<Feedback> feedbackList;
     private List<Notification> notificationList;
+    private Boolean absance;
+    private String meetingLink;
 }

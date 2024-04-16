@@ -1,5 +1,5 @@
 package com.rzem.appointment.entities;
-
+/*
 import jakarta.persistence.Id;
 import lombok.*;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -18,6 +18,9 @@ public class Meeting {
     private String meetingId;
     private String meetingName;
     private String meetingLink;
-    private List<User> participants;
+    private List<int> participantsIds;
 
 }
+
+
+ */

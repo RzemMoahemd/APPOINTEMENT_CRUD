@@ -7,7 +7,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.Date;
 
-
+/*
 @Getter
 @Setter
 @AllArgsConstructor
@@ -25,3 +25,6 @@ public class Absence {
 
 
 }
+
+
+ */

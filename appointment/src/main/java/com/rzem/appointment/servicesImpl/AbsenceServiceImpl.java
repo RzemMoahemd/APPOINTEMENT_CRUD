@@ -1,5 +1,5 @@
 package com.rzem.appointment.servicesImpl;
-
+/*
 import com.rzem.appointment.entities.Absence;
 import com.rzem.appointment.entities.Availability;
 import com.rzem.appointment.repos.AbsenceRepository;
@@ -79,3 +79,4 @@ public class AbsenceServiceImpl implements AbsenceService {
         return addedAbsence;
     }
 }
+*/

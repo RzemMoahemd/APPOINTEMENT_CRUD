@@ -1,5 +1,5 @@
 package com.rzem.appointment.entities;
-
+/*
 import jakarta.persistence.Id;
 import lombok.*;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -19,3 +19,5 @@ public class ConferencePlatform {
     private String accessToken;
     // Méthodes pour interagir avec la plateforme de vidéoconférence
 }
+
+ */

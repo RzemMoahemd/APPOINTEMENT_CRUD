@@ -18,8 +18,8 @@ public class ChatMessage {
     private int id;
     private String content;
     private Date timestamp;
-    private User sender;
-    private User receiver;
+    private int senderId;
+    private int receiverId;
     private Appointment appointment ;
 
 }
